@@ -1,5 +1,7 @@
 # The Pão de Queijo app for Zendesk
 
+### Description:
+
 This app shows a picture of a pão de queijo, a traditional cheese bread from Brazil.
 
 > *"The most tasty Zendesk app ever."*
